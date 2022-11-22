@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "289815053444",
-    "project_id": "auth-minggu11",
-    "storage_bucket": "auth-minggu11.appspot.com"
+    "project_number": "781196300723",
+    "project_id": "authfirebase-ec9d8",
+    "storage_bucket": "authfirebase-ec9d8.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:289815053444:android:bb944f4a325859b5002ed1",
+        "mobilesdk_app_id": "1:781196300723:android:f3c8b6abd810cab5917bc6",
         "android_client_info": {
           "package_name": "com.example.auth_minggu11"
         }
       },
       "oauth_client": [
         {
-          "client_id": "289815053444-m0cs6m0r4dlg0mcvlrldps6nbfn1l4qr.apps.googleusercontent.com",
+          "client_id": "781196300723-m53selo3cp7u7k70jnu9rrujrr5qjq1k.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCggSf6YNHqUxHDqOjyXk82Q_HPSynw89s"
+          "current_key": "AIzaSyBdicIOfB1FwteTcUa8h6U7QkHtmHYfr4U"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "289815053444-m0cs6m0r4dlg0mcvlrldps6nbfn1l4qr.apps.googleusercontent.com",
+              "client_id": "781196300723-m53selo3cp7u7k70jnu9rrujrr5qjq1k.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

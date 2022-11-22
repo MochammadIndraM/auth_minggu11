@@ -8,15 +8,14 @@ Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
       options: const FirebaseOptions(
-          apiKey: 'AIzaSyCggSf6YNHqUxHDqOjyXk82Q_HPSynw89s',
-          appId: '1:289815053444:android:bb944f4a325859b5002ed1',
-          messagingSenderId: '289815053444',
-          projectId: 'auth-minggu11'));
+          apiKey: 'AIzaSyBdicIOfB1FwteTcUa8h6U7QkHtmHYfr4U',
+          appId: '1:781196300723:android:f3c8b6abd810cab5917bc6',
+          messagingSenderId: '781196300723',
+          projectId: 'authfirebase-ec9d8'));
   runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
